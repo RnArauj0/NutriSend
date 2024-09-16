@@ -1,0 +1,16 @@
+.footer-content{
+  bottom: 0;
+  width: 100%;
+  height: 60%;
+  background-color: white;
+  color: #e08e36;
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+}
+.footer-content hr{
+  border: 0;
+  border-top: 2px solid #E08E36;
+  margin: 0;
+  padding: 0;
+}
